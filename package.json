@@ -1,5 +1,5 @@
 {
-  "name": "video-recorder-tlc",
+  "name": "video-recorder-tlcgroup",
   "version": "1.0.0",
   "private": false,
   "description": "capacitor plugin to record video",
@@ -13,7 +13,7 @@
     "dist/",
     "ios/Plugin",
     "ios/Podfile",
-    "TlcVideoRecorder.podspec"
+    "VideoRecorderTlcgroup.podspec"
   ],
   "author": "shiv19",
   "license": "MIT",
